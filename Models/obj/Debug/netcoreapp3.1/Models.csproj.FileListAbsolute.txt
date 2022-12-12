@@ -1,0 +1,10 @@
+E:\Documents\source\repos\apilab2\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+E:\Documents\source\repos\apilab2\Models\bin\Debug\netcoreapp3.1\Models.dll
+E:\Documents\source\repos\apilab2\Models\bin\Debug\netcoreapp3.1\Models.pdb
+E:\Documents\source\repos\apilab2\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+E:\Documents\source\repos\apilab2\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\source\repos\apilab2\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+E:\Documents\source\repos\apilab2\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+E:\Documents\source\repos\apilab2\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+E:\Documents\source\repos\apilab2\Models\obj\Debug\netcoreapp3.1\Models.dll
+E:\Documents\source\repos\apilab2\Models\obj\Debug\netcoreapp3.1\Models.pdb

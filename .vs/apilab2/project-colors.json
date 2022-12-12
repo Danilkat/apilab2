@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "382d775e-931f-4574-85e4-3c8af46670b9": {
+      "ProjectGuid": "382d775e-931f-4574-85e4-3c8af46670b9",
+      "DisplayName": "apilab2server",
+      "ColorIndex": 0
+    },
+    "7fe78029-217d-4d04-97bf-78bdfd104b7f": {
+      "ProjectGuid": "7fe78029-217d-4d04-97bf-78bdfd104b7f",
+      "DisplayName": "Models",
+      "ColorIndex": 1
+    },
+    "9f6d6155-7c70-4680-a462-13343897b51f": {
+      "ProjectGuid": "9f6d6155-7c70-4680-a462-13343897b51f",
+      "DisplayName": "apilab2client",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
